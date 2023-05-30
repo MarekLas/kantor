@@ -2,3 +2,4 @@ ipywidgets
 IPython
 voila
 jupyterlab
+fastai
